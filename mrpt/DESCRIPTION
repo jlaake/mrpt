@@ -1,0 +1,11 @@
+Package: mrpt
+Type: Package
+Title: Mark-recapture point count distance analysis
+Version: 1.0
+Date: 2010-04-19
+Author: Jeff Laake
+Maintainer: Jeff Laake <jeff.laak@noaa.gov>
+Description: Fits io/removal observer configurations for double observer point count distance sampling data.
+License: GPL-2
+Depends: R (>= 2.10.0), numDeriv, ggplot2
+LazyLoad: yes
