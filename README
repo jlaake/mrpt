@@ -1,6 +1,5 @@
 mrpt - Mark-Recapture Distance sampling for point counts
 
-This is an R package for analysis of double observer point count data that accompanies Laake et al (2011). It should be used for the 
-removal configuration of observers.  The data file and models fitted for the manuscript are included in the package.
+This is an R package for analysis of double observer point count data that accompanies Laake et al (2011). It should be used for the removal configuration of observers.  The data file and models fitted for the manuscript are included in the package.
 
-Laake, J. L., B. A. Collier, et al. (2011). "Point-based Mark-Recapture Distance Sampling." Journal of Agricultural Biological and Environmental Statistics.
+Laake, J. L., B. A. Collier, M.L. Morrison, and R.N. Wilkins (2011). "Point-based Mark-Recapture Distance Sampling." Journal of Agricultural Biological and Environmental Statistics.
